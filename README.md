@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something cool >.<<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI, ML and Blockchain<br>💬 Ask me about anythink related to JavaScript, PHP, Laravel, Go
+🔭 I’m currently working on something cool >.<<br>🌱 I’m currently learning AI, ML and Blockchain<br>💬 Ask me about anythink related to JavaScript, PHP, Laravel, Go
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parsilver&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=parsilver)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=parsilver&icon=0&color=6)](https://visitcount.itsvg.in)
